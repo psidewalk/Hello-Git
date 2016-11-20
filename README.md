@@ -1,2 +1,2 @@
 # hello-world
-exempo do guide do GitHub
+Exemplo do guide do GitHub
